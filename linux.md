@@ -65,7 +65,7 @@ e fare la stessa cosa nel pannello *Run*
 
 ![Aggiunta della libreria in Run](img/image4.png)
 
-* sostituire il codice dell'applicazione in modo che sia un codice JavaFX funzionante (un esempio già impostato si può trovare in JavaFXExample)
+* sostituire il codice dell'applicazione in modo che sia un codice JavaFX funzionante (un esempio già impostato si può trovare in [JavaFXExample](esempi/JavaFxExample)
 
 * infine andare ad aggiungere le impostazion ```--add-modules javafx.controls,javafx.fxml``` all'interno del pannello *VM options* che si trova nelle proprietà del progetto alla voce **Run** come si puà vedere nell'immagine qua sotto:
 
@@ -77,7 +77,7 @@ Infine, per poter utilizzare anche lo Scene Builder, scaricare il file *.deb* ap
 
 Per l'integrazione in NetBeans si ricorda di andare in **Tools->Options->Java->JavaFX** e indicare nell'apposito box la home dello Scene Builder, che dovrebbe essere **/opt/SceneBuilder**. 
 
-Per verificare il funzionamento provare con l'esempio JavaFXML.
+Per verificare il funzionamento provare con l'esempio [JavaFXML](esempi/JavaFXML).
 
 
 
